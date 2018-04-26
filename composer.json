@@ -1,0 +1,14 @@
+{
+    "name": "jp/facebook_campaign_creation",
+    "description": "Creates a Facebook Campaign",
+    "authors": [
+        {
+            "name": "Javier Pimentel",
+            "email": "javier@softwareandwebstuff.com"
+        }
+    ],
+    "require": {
+        "facebook/php-ads-sdk": "^2.11",
+        "nesbot/carbon": "^1.27"
+    }
+}
